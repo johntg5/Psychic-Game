@@ -1,0 +1,14 @@
+header {
+    color: red;
+    text-align: center;
+    font-size: 36px;
+}
+
+body {
+    background: url(https://www.trend-chaser.com/wp-content/uploads/sites/7/2016/08/ms-cleo.jpg);
+    background-size: cover;
+
+    font-family: 'Special Elite', cursive;
+    color: red;
+    font-size: 22px;
+}
